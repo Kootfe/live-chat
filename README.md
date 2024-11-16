@@ -8,6 +8,7 @@ With Express.JS and WebSockets we make live chat app. While Express.JS makes API
 ```bash
 git clone https://github.com/Kootfe/live-chat.git
 cd live-chat
+npm i
 node server.js
 ```
 ## Dependencies:
